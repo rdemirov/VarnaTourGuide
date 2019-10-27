@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Varna Tour Guide</string>
+    <string name="museums_category">Museums</string>
+    <string name="landmarks_category">Landmarks</string>
+    <string name="parks_category">Parks</string>
+    <string name="shopping_category">Shopping</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="landmarks_roman_baths_label">Roman Baths</string>
+    <string name="landmarks_roman_baths_description">Third biggest Roman ruins in Europe and, off course the biggest in Bulgaria. The therms were built in 2nd century AD and Romans enjoyed there by bathing in freezing cold water, tepid water or hot water. Only a small complex comparing to original is still preserved.</string>
+    <string name="landmarks_karadzha_monument_label">Stefan Karadzha monument</string>
+    <string name="landmarks_karadzha_monument_description">A monument in honour of national Bulgarian hero, who was fighting for people\'s freedom from Ottoman Empire in 19th century.</string>
+    <string name="landmarks_tzar_kaloyan_monument_label">Monument of tsar Kaloyan</string>
+    <string name="landmarks_tzar_kaloyan_monument_description">A very impressive equestrian statue of famous 12-13 century Bulgarian tsar who had expanded Bulgarian lands during his life while confronting with the Byzantine Empire.</string>
+    <string name="landmarks_tsarska_bistritza_label">Tsarska Bistritza</string>
+    <string name="landmarks_tsarska_bistritza_description">Tsarska Bistritsa is a former royal palace located just above the resort of Borovets wich served as the hunting lodge of Tsar Ferdinand of Bulgaria.</string>
+    <string name="museums_retro_museum_label">Retro Museum</string>
+    <string name="museums_retro_museum_description">On an area of 4000 square meters, you can find more than 50 restored cars, manufactured between 1943 and 1989 from the socialist era.We also have 27 wax figures of ideologists, revolutionaries and national artists such as Todor Zhivkov, Leonid Brezhnev, Fidel Castro, Che Guevara, Erich Honecker, Nicolae Ceausescu, Gustav Husak, Wojciech Jaruzelski, Stalin, Lenin, Vysotsky, and others.</string>
+    <string name="museums_vladislav_varnenchik_label">Museum of military friendship</string>
+    <string name="museums_vladislav_varnenchik_description">The park-museum „Vladislav Varnenchik” is a memorial complex, situated in the center of the battlefield, in the middle of an unique park on an area of 30 decares.In the exposition every visitor has the possibility to see :
+arms and equipment from XV century, found on the battlefield (helmets, cross-bows, swords, shields, spears, etc.) paintings, sculptures, prints and other works of art, dedicated to the battle of Varna flags, models, tickets and coats of arms.</string>
+    <string name="museums_varna_history_label">Museum of the history of Varna</string>
+    <string name="museums_varna_history_description">The museum covers recent history, including early social history and manufacturing, from 1878 to 1939, set over 3 floors of the house.</string>
+    <string name="museums_history_medicine_label">Medical history museum</string>
+    <string name="museums_history_medicine_description">The Museum of the History of Medicine is more akin to a private collection of collected medical artifacts rather than a \'full museum\'. However, the museum is free and it is interesting. </string>
+    <string name="parks_aquarium_label">Aquarium</string>
+    <string name="parks_aquarium_description">It\'s not the best or the newest aquarium in the world but is an interesting attraction in the city of Varna. No more than 150 species of fish and marine life form, but is kids friendly and it\'s a way to spend the afternoon. If you are in the area don\'t miss it.</string>
+    <string name="parks_sea_garden_label">Sea garden</string>
+    <string name="parks_sea_garden_description">A pretty, decent-sized green space with most of the local tourist attractions nearby or even in the middle of it, like the zoo and aquarium. Right next to the main town and the beech so very easy to get to. It\'s the perfect place to relax in or walk around for a couple of hours. There are some pretty flower beds and interesting monuments to look at. </string>
+    <string name="parks_zoo_park_label">Zoo park</string>
+    <string name="parks_zoo_park_description">Varna Zoopark is a nice little zoopark with few animals and birds, lots of shadows on hot day and very good price (1.50 lev).</string>
+    <string name="parks_eco_park_label">Eco Park</string>
+    <string name="parks_eco_park_description">Built and managed as a university botanical garden, the Ecopark near Varna has become an incredibly good combination of natural resources and a cultivated park with gardens and places for family recreation. Even in the autumn, when there are less beautiful summer flowers and it is not so colorful, the green meadows, the exotic trees, the water areas etc definitely will please your senses with the beauty and harmony of nature, as well as the fresh air giving you a complete walk pleasure and rest. </string>
+    <string name="shopping_grand_mall_label">Grand Mall</string>
+    <string name="shopping_grand_mall_description">A nice place to shop around with a variety of prices and quality, in addition to a big food court and kids play courts too. And a cinema and museums.</string>
+    <string name="shopping_averi_beers_label">Averi beers</string>
+    <string name="shopping_averi_beers_description">The best beer shop in Varna. Over 150 types of craft beer from all aver the world!</string>
+    <string name="shopping_lollipop_label">Lollipop Bulgaria</string>
+    <string name="shopping_lollipop_description">LOLLIPOP a traditional candy manufactory in the heart of VARNA. Must visit candy shop in Varna! Sweet experience you will never forget. Workshops and live manufacturing in VARNA. 100% handmade hard candy, carmel, marshmallows and jellies. We use only natural colors and flavors, NO artificial. Dear friends! Every day you can not only watch how we prepare our candies, but participate in candy handcrafting workshop .</string>
+    <string name="shopping_balkanik_souvenirs_label">Balkanik Souvenirs</string>
+    <string name="shopping_balkanik_souvenirs_description">Bulgarian Traditional Souvenirs and Gifts.</string>
+    <string name="shopping_retail_park_label">Retail Park varna</string>
+    <string name="shopping_retail_park_description">Retail Park Varna is the first of its kind in Varna and the Northeastern part of Bulgaria. It has been established as the ultimate shopping destination, featuring some of the most prestigious local and international brands as IKEA, JYSK, Dominico, Martineli,Zora, Decathlon.</string>
+</resources>
